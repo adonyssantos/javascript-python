@@ -1,0 +1,17 @@
+// Inicio
+Algoritmo es_mayor_de_edad
+
+// Mostrar un texto
+Mostrar 'Ingrese su edad'
+
+// Guardar la edad en una variable
+Leer edad
+
+// Condición
+Si edad es mayor o igual 18
+  Mostrar 'Eres mayor de edad'
+De lo contra
+  Mostrar "Eres menor de edad"
+
+// Indicar el fin
+Fin del algoritmo
